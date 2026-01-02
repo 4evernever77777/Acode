@@ -7,10 +7,10 @@ class TerminalThemeManager {
 	constructor() {
 		this.themes = {
 			dark: {
-				background: "#23272a",
+				background: "#000000",
 				foreground: "#f5f5f5",
 				cursor: "#4285f4",
-				cursorAccent: "#23272a",
+				cursorAccent: "#000000",
 				selection: "#ffffff40",
 				black: "#181b1e",
 				red: "#f07178",
